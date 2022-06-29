@@ -1,0 +1,29 @@
+
+
+* {
+    background-color: bisque;
+}
+header{
+    font-size: x-large;
+}
+.fish {
+    border: 4pt dotted BLACK;
+    width: 45%;
+    margin: 2%;
+    
+
+}
+
+img {
+    width: 400px;
+    margin: 8%;
+}
+
+.tank {
+    float: right;
+    margin: 2%;
+    
+    
+    
+    
+}
